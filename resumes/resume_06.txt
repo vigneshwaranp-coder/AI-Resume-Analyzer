@@ -1,0 +1,18 @@
+OMAR ALI | JUNIOR DATA SCIENTIST
+Email: omar.ali@example.com | Phone: +1-555-0106
+
+PROFILE
+Junior data scientist with 2.5 years of experience in statistical analysis and predictive modelling.
+
+TECHNICAL SKILLS
+Python, pandas, scikit-learn, Jupyter, Statistics, Data Visualization
+
+EXPERIENCE
+Data Science Associate | Example Analytics Lab | 2023 - Present
+- Performed exploratory data analysis using pandas and Jupyter notebooks.
+- Built baseline classification models with scikit-learn.
+- Used statistical methods to explain dataset patterns.
+- Created data visualizations for project reports.
+
+EDUCATION
+Master of Science in Applied Mathematics | Example University | 2023

@@ -1,0 +1,6 @@
+failure_case,status_code,message
+Missing resume source,422,Provide exactly one resume source: resume_text or resume_file.
+Unsupported file type,415,Unsupported file type. Upload a PDF or TXT resume.
+Empty resume file,422,No readable text was found in the resume.
+Scanned PDF without selectable text,422,PDF has no selectable text. It may be scanned/image-only; OCR is not included in this project.
+Job description too short,422,"[{'type': 'string_too_short', 'loc': ['body', 'job_description'], 'msg': 'String should have at least 10 characters', 'input': 'short', 'ctx': {'min_length': 10}}]"

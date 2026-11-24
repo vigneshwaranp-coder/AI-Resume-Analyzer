@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Python Developer",
+    "description": "Job Title: Python Developer\nRequired skills: Python, FastAPI, SQL, REST APIs, Git, automated testing.\nResponsibilities: Build backend APIs, connect databases, write tests, review code, and document services."
+  },
+  {
+    "title": "Data Analyst",
+    "description": "Job Title: Data Analyst\nRequired skills: SQL, Python, pandas, Excel, Power BI, data cleaning, reporting.\nResponsibilities: Clean business data, write SQL queries, prepare dashboards, and explain findings to stakeholders."
+  }
+]

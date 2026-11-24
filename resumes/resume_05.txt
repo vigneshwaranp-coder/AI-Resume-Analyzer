@@ -1,0 +1,18 @@
+PRIYA RAMAN - BUSINESS DATA ANALYST
+Email: priya.raman@example.com
+Phone: +1-555-0105
+
+SUMMARY
+Business data analyst with 5 years of experience supporting operational and commercial decisions.
+
+SKILLS
+SQL, Tableau, Excel, Power BI, Stakeholder Communication, Reporting
+
+EXPERIENCE
+Business Analyst | Example Insights Group | 2021 - 2026
+- Created executive dashboards in Tableau and Power BI.
+- Used SQL and Excel to prepare monthly business reports.
+- Presented analysis to stakeholders and translated business questions into reporting requirements.
+
+EDUCATION
+Master of Business Administration | Example Business School | 2020

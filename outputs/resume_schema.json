@@ -1,0 +1,69 @@
+{
+  "additionalProperties": false,
+  "description": "Required candidate extraction schema from the assessment.",
+  "properties": {
+    "candidate_name": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Candidate Name"
+    },
+    "skills": {
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "title": "Skills",
+      "type": "array"
+    },
+    "years_of_experience": {
+      "anyOf": [
+        {
+          "maximum": 50,
+          "minimum": 0,
+          "type": "number"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Years Of Experience"
+    },
+    "education": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Education",
+      "type": "array"
+    },
+    "strengths": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Strengths",
+      "type": "array"
+    },
+    "gaps": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Gaps",
+      "type": "array"
+    }
+  },
+  "required": [
+    "candidate_name",
+    "skills",
+    "years_of_experience",
+    "education",
+    "strengths",
+    "gaps"
+  ],
+  "title": "ResumeData",
+  "type": "object"
+}

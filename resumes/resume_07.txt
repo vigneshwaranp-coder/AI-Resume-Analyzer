@@ -1,0 +1,18 @@
+CHLOE MARTIN - SOFTWARE ENGINEER
+chloe.martin@example.com | +1-555-0107
+
+SUMMARY
+Software engineer with 6 years of experience building and maintaining backend systems.
+
+SKILLS
+Java, Python, AWS, Docker, CI/CD, PostgreSQL
+
+WORK HISTORY
+Software Engineer | Example Systems Studio | 2020 - 2026
+- Built backend services in Java and Python.
+- Deployed services to AWS and managed container workloads with Docker.
+- Maintained CI/CD pipelines for automated builds and deployments.
+- Worked with PostgreSQL databases.
+
+EDUCATION
+Bachelor of Engineering in Software Engineering | Example Institute | 2020

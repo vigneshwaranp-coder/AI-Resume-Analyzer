@@ -1,0 +1,130 @@
+[
+  {
+    "file": "resume_01.pdf",
+    "candidate_name": "Sofia Reed",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "SQL",
+      "Git",
+      "pytest",
+      "Docker"
+    ],
+    "years_of_experience": 3.5,
+    "education": [
+      "Bachelor of Science in Information Technology"
+    ]
+  },
+  {
+    "file": "resume_02.pdf",
+    "candidate_name": "Arjun Nair",
+    "skills": [
+      "SQL",
+      "Python",
+      "pandas",
+      "Excel",
+      "Power BI",
+      "Data Cleaning"
+    ],
+    "years_of_experience": 2.0,
+    "education": [
+      "Bachelor of Science in Statistics"
+    ]
+  },
+  {
+    "file": "resume_03.pdf",
+    "candidate_name": "Lina Park",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "PyTorch",
+      "pandas",
+      "MLflow",
+      "Docker"
+    ],
+    "years_of_experience": 4.5,
+    "education": [
+      "Master of Science in Computer Science"
+    ]
+  },
+  {
+    "file": "resume_04.pdf",
+    "candidate_name": "Daniel Ortiz",
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "REST APIs",
+      "Git",
+      "HTML"
+    ],
+    "years_of_experience": 1.5,
+    "education": [
+      "Professional Certificate in Software Development"
+    ]
+  },
+  {
+    "file": "resume_05.txt",
+    "candidate_name": "Priya Raman",
+    "skills": [
+      "SQL",
+      "Tableau",
+      "Excel",
+      "Power BI",
+      "Stakeholder Communication",
+      "Reporting"
+    ],
+    "years_of_experience": 5.0,
+    "education": [
+      "Master of Business Administration"
+    ]
+  },
+  {
+    "file": "resume_06.txt",
+    "candidate_name": "Omar Ali",
+    "skills": [
+      "Python",
+      "pandas",
+      "scikit-learn",
+      "Jupyter",
+      "Statistics",
+      "Data Visualization"
+    ],
+    "years_of_experience": 2.5,
+    "education": [
+      "Master of Science in Applied Mathematics"
+    ]
+  },
+  {
+    "file": "resume_07.txt",
+    "candidate_name": "Chloe Martin",
+    "skills": [
+      "Java",
+      "Python",
+      "AWS",
+      "Docker",
+      "CI/CD",
+      "PostgreSQL"
+    ],
+    "years_of_experience": 6.0,
+    "education": [
+      "Bachelor of Engineering in Software Engineering"
+    ]
+  },
+  {
+    "file": "resume_08.txt",
+    "candidate_name": "Ethan Brooks",
+    "skills": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS",
+      "REST APIs",
+      "Git"
+    ],
+    "years_of_experience": 3.0,
+    "education": [
+      "Bachelor of Science in Computer Science"
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+ETHAN BROOKS | FRONTEND DEVELOPER
+ethan.brooks@example.com | +1-555-0108
+
+PROFILE
+Frontend developer with 3 years of experience building responsive web interfaces.
+
+SKILLS
+JavaScript, React, HTML, CSS, REST APIs, Git
+
+EXPERIENCE
+Frontend Developer | Example Web Studio | 2023 - Present
+- Built responsive user interfaces with JavaScript and React.
+- Created accessible page layouts using HTML and CSS.
+- Integrated frontend components with REST APIs.
+- Used Git for version control and team collaboration.
+
+EDUCATION
+Bachelor of Science in Computer Science | Example College | 2022

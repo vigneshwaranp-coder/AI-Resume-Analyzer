@@ -1,0 +1,4 @@
+Automated resume scores can reproduce bias in historical hiring data and may reward wording rather than real ability.
+A model can miss transferable skills or misunderstand non-traditional experience, career breaks, and different writing styles.
+The analyzer is instructed to use only job-related evidence and ignore protected or sensitive personal attributes, but this does not guarantee fairness.
+A human reviewer must verify source evidence, allow candidates to correct errors, and never use the score as the sole hiring decision.

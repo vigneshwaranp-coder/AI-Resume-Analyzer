@@ -1,0 +1,23 @@
+{
+  "project": "AI Resume Analyzer",
+  "assessment_scope": {
+    "mandatory_requirements": 38,
+    "optional_bonuses": 4
+  },
+  "notebook_cells": 60,
+  "resumes": [
+    "empty_resume_test.txt",
+    "resume_01.pdf",
+    "resume_02.pdf",
+    "resume_03.pdf",
+    "resume_04.pdf",
+    "resume_05.txt",
+    "resume_06.txt",
+    "resume_07.txt",
+    "resume_08.txt",
+    "scanned_resume_test.pdf"
+  ],
+  "gemini_model_default": "gemini-2.5-flash",
+  "api_key_file": ".env (copy from .env.example; never commit)",
+  "code_cells": 47
+}
